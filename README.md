@@ -1,1 +1,1 @@
-# Reinforcement_Learning_with_Tensorflow
+Details in https://zhuanlan.zhihu.com/p/34162759
